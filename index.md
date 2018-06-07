@@ -8,11 +8,11 @@
 <body>
   <h2>CIT Minor Portfolio</h2>
   <ul>
-  <li><a href"">Project 1<a/></li>
-  <li><a href"">Project 2<a/></li>
-  <li><a href"">Project 3<a/></li>
+  <li><a href"">Project 1</a></li>
+  <li><a href"">Project 2</a></li>
+  <li><a href"">Project 3</a></li>
   <li><a href="https://uo-cit.github.io/project-4-jwilson7/">Project 4</a></li>
-  <li><a href"">Project 5<a/></li>
+  <li><a href"">Project 5</a></li>
   </ul>
 </body>
 </html>
