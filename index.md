@@ -1,12 +1,15 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Hello World</title>
+  <link rel="stylesheet" type="text/css" href="stylesheets/index.css">
+  <title>J.Wilson CIT</title>
 </head>
 <body>
-  <h2>Hello World</h2>
+  <h2>CIT Minor Portfolio</h2>
+  <a href="https://uo-cit.github.io/project-4-jwilson7/">Project 4</a>
 </body>
 </html>
