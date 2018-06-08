@@ -14,6 +14,6 @@
   <li><a href="https://uo-cit.github.io/project-4-jwilson7/">Project 4</a></li>
   <li><a href="https://uo-cit.github.io/project-4-jwilson7/">Project 5</a></li>
   </ul>
-  ![Network Image](images/network.jpg)
+  <img src = "images/network.jpg">
 </body>
 </html>
